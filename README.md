@@ -1,5 +1,5 @@
 # Programação de Computadores
-#### PythonCheatSheet da disciplina de Programação de Computadores (CCP && TADS && GTI)
+#### PythonCheatSheet da disciplina de Programação de Computadores
  
 ![](http://dwebkit.esy.es/repositorio/python-logo-3.6.gif)
 
